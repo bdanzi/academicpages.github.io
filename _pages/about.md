@@ -8,8 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Working
+Hi everyone!
 ======
-+This is Dr. Brunella D'Anzi's home on the web!
+This is the Brunella D'Anzi's home on the web!
 
-+Lorem ipsum.
+The website is a Work in Progress. 
+See <a href="/about">https://bruni124.webnode.it</a> at the moment. 
