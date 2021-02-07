@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<div align="center">Hi everyone!</div>
+Hi everyone!
 
 This is the Brunella D'Anzi's home on the web!
 
