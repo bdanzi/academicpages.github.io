@@ -10,8 +10,10 @@ redirect_from:
 ###          Hi everyone!
 This is the Brunella D'Anzi's home on the web!
 
-The website is a Work in Progress. 
-See [link](https://bruni124.webnode.it) at the moment. 
+## NOTE: 
+The website is a WORK IN PROGRESS. 
+
+Go to [this link](https://bruni124.webnode.it) for now. 
 
 
 
