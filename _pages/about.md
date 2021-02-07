@@ -11,7 +11,7 @@ redirect_from:
 This is the Brunella D'Anzi's home on the web!
 
 ## Note: 
-The website is a WORK IN PROGRESS. 
+        WORKING IN PROGRESS
 
 Go to [this link](https://bruni124.webnode.it) for now. 
 
