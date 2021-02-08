@@ -17,8 +17,7 @@ redirect_from:
 
 ## Experience
 
-* 2018-Present: Maths and Physics Tutor
-  * SuperProf
+* 2018-Present: Maths and Physics Tutor at SuperProf
   * Tutoring for High School and Undergraduate Students
     
 ## Extra Courses
