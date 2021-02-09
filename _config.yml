@@ -14,7 +14,7 @@ description              : &description "I'm an Italian M.Sc. student in Particl
 url                      : https://bdanzi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bdanzi/bdanzi.github.io"
-teaser                   :  "500x300.png"
+teaser                   : # "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
