@@ -77,9 +77,11 @@ redirect_from:
 
         
         <!-- .read-more -->
+<button onclick="myFunction()">Read More</button>
 
-        <!-- If you don't want a 'read more' section, simple delete the entire span class below -->
-     <h3 class="push-down-3"><span>Education</span></h3>
+<div id="myDIV">
+This is my DIV element.
+  <h3 class="push-down-3"><span>Education</span></h3>
         <ul id="education">
          
           <li>
@@ -113,6 +115,22 @@ redirect_from:
           </li>
           <li>PHYSTAT - Flavour 2020<br></li>
         </ul>
+</div>
+
+
+<script>
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
+        
+        <!-- If you don't want a 'read more' section, simple delete the entire span class below -->
+     
         
         
         <h3 class="push-down-3"><span>Workshops</span></h3>
