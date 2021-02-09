@@ -80,7 +80,7 @@ redirect_from:
 <button onclick="myFunction()">Read More</button>
 
 <div id="myDIV">
-This is my DIV element.
+
   <h3 class="push-down-3"><span>Education</span></h3>
         <ul id="education">
          
@@ -115,25 +115,9 @@ This is my DIV element.
           </li>
           <li>PHYSTAT - Flavour 2020<br></li>
         </ul>
-</div>
-
-
-<script>
-function myFunction() {
-  var x = document.getElementById("myDIV");
-  if (x.style.display === "none") {
-    x.style.display = "block";
-  } else {
-    x.style.display = "none";
-  }
-}
-</script>
-        
-        <!-- If you don't want a 'read more' section, simple delete the entire span class below -->
-     
-        
-        
-        <h3 class="push-down-3"><span>Workshops</span></h3>
+  
+  
+  <h3 class="push-down-3"><span>Workshops</span></h3>
 
         <ul id="workshops">
           
@@ -172,6 +156,14 @@ function myFunction() {
         <li>DESY Terascale Summer School, Hamburg 2020<br></li>
         </ul>
 
+</div>
+
+        
+        <!-- If you don't want a 'read more' section, simple delete the entire span class below -->
+     
+        
+        
+        
        <h2>Links</h2>
         <p><a href="https://bruni124.webnode.it/i-miei-lavori/" target="_blank"> My Interests</a></p>
         <p><a href="https://bruni124.webnode.it/i-miei-lavori/nella-giungla/" target="_blank"> Music </a></p>
@@ -212,6 +204,16 @@ function myFunction() {
     });
   </script>
 
+  <script>
+function myFunction() {
+  var x = document.getElementById("myDIV");
+  if (x.style.display === "none") {
+    x.style.display = "block";
+  } else {
+    x.style.display = "none";
+  }
+}
+</script>
 </body>
 </html>
 
