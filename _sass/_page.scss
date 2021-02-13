@@ -54,6 +54,33 @@
     padding-bottom: 0.5em;
     border-bottom: 1px solid $border-color;
   }
+   
+   h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat", Helvetica, sans-serif;
+  color: #20364c;
+  font-weight: 500;
+}
+
+   h3 span {
+  background-color: white;
+  padding-right: 10px;
+}
+
+h3:after {
+  content: "";
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 0.5em;
+  border-top: 2px solid #0033A0;
+  z-index: -1;
+}
+
+/* Format the footer ---------------------------------------------------------- */
+footer {
+  padding-bottom: 2rem;
+}
 
   p, li, dl {
     font-size: 1em;
