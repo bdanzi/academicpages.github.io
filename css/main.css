@@ -135,15 +135,6 @@ blockquote footer {
 /* Contact info area, index.html page ------------------------------------------------- */
 
 
-#program {
-  color: gray;
-  text-align: center;
-}
-
-iframe {
-  padding: 3px;
-  border: 1px solid lightgray;
-}
 
 /* Format the nav  ---------------------------------------------------------- */
 nav {
