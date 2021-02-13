@@ -124,7 +124,7 @@
 
 .author__bio {
   margin: 0;
- 
+  font-size: 1.5rem;
   @include breakpoint($large) {
     margin-top: 10px;
     margin-bottom: 20px;
@@ -137,7 +137,7 @@
   vertical-align: middle;
   font-family: $sans-serif;
   z-index: 10;
-   font-size: 4rem;
+   font-size: 1.5rem;
   position: relative;
   cursor: pointer;
 
