@@ -313,7 +313,7 @@ h3:after {
   left: 0;
   right: 0;
   height: 0.5em;
-  border-top: 2px solid slategray;
+  border-top: 2px solid #0033A0;
   z-index: -1;
 }
 
