@@ -323,23 +323,7 @@ footer {
 }
 
 /* Format the social-professional network icons ------------------------------ */
-.social-icons {
-  list-style-type: none;
-}
 
-.social-icons li {
-  padding-left: 2rem;
-  display: inline-block;
-}
-
-.social-icons li a {
-  color: #1585cf;
-}
-
-.social-icons li a:hover {
-  opacity: .8;
-  text-decoration: none !important;
-}
 
 /* Projects page --------------------------------------------------------- */
 #projects .panel {
