@@ -88,7 +88,7 @@
 
     @include breakpoint($large) {
       padding: 5px;
-      border: 1px solid  #0033A0;
+      border: 1px solid  $border-color;
     }
   }
 }
@@ -117,7 +117,7 @@
   }
 }
 .sidebar .author__name {
-  font-family: $sans-serif;
+  font-family: "Montserrat", Helvetica, sans-serif;
   font-size: 1.5rem;
 }
 
