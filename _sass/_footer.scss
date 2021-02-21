@@ -15,7 +15,7 @@
   height: auto;
   /* sticky footer fix end */
   margin-top: 3em;
-  color: mix(#fff, $gray, 25%);
+  color: mix(#fff, #0033A0, 25%);
   -webkit-animation: intro 0.3s both;
           animation: intro 0.3s both;
   -webkit-animation-delay: 0.45s;
@@ -54,8 +54,8 @@
 }
 
 .page__footer-copyright {
-  font-family: $global-font-family;
-  font-size: $type-size-7;
+  font-family: $sans-serif-narrow;
+  font-size: $type-size-5;
 }
 
 .page__footer-follow {
