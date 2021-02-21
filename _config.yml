@@ -6,11 +6,11 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : 
+locale                   : "en-US"
 title                    : "Brunella D'Anzi"
 title_separator          : "-"
 name                     : &name "Brunella"
-description              : &description "I'm an Italian M.Sc. student in Particle Physics and Violinist student."
+description              : &description "I am an Italian M.Sc. student in Particle Physics and Violinist student."
 url                      : https://bdanzi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "bdanzi/bdanzi.github.io"
@@ -18,7 +18,7 @@ teaser                   : # "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
+read_more                : "enabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
 comments:
   provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
