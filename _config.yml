@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   :
+locale                   : 
 title                    : "Brunella D'Anzi"
 title_separator          : "-"
 name                     : &name "Brunella"
@@ -291,15 +291,15 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-# https://github.com/jekyll/jekyll-archives
-jekyll-archives:
-  enabled:
+#https://github.com/jekyll/jekyll-archives
+#jekyll-archives:
+enabled:
   - categories
   - tags
- layouts:
+layouts:
    category: archive-taxonomy
    tag: archive-taxonomy
-  permalinks:
+permalinks:
     category: /categories/:name/
     tag: /tags/:name/
 
