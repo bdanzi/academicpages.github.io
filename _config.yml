@@ -288,7 +288,7 @@ whitelist:
 category-archive:
   type: liquid
   path: /categories/
-tag_archive:
+tag-archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
