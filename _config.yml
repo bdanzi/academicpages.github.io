@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Brunella D'Anzi"
+title                    : " Brunella D'Anzi"
 title_separator          : "-"
 name                     : &name "Brunella"
 description              : &description "I am an Italian M.Sc. student in Particle Physics and Violinist student."
