@@ -109,7 +109,7 @@
 }
 
 .author__name {
-  margin: auto;
+  margin: 1px;
 
   @include breakpoint($large) {
     margin-top: 10px;
@@ -123,7 +123,7 @@
 }
 
 .author__bio {
-  margin: 1;
+  margin: 1px;
   font-family: "Montserrat", Helvetica, sans-serif;
   font-size: $type-size-4;
    
