@@ -123,10 +123,10 @@
 }
 
 .author__bio {
-  margin: 0px;
+  text-align: center;
   font-family: "Montserrat", Helvetica, sans-serif;
   font-size: $type-size-4;
-   
+  
   @include breakpoint($large) {
     margin-top: 15px;
     margin-bottom: 20px;
