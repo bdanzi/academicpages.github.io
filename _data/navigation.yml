@@ -1,6 +1,7 @@
 # main links links
 main:
-#  - title: "Conferences and Seminars"
+#
+#- title: "Conferences and Seminars"
  #   url: /publications/
 
   #- title: "Talks"
@@ -12,7 +13,7 @@ main:
   #- title: "Portfolio"
    # url: /portfolio/
         
-  - title: "Blog Posts"
+  - title: "Posts"
     url: /year-archive/
     
   - title: "CV"
